@@ -54,7 +54,7 @@
 ## Web deploy
 
 1. Fork this repository. If you find this project helpful, please consider giving it a Star.
-2. Open [Workers](https://deploy.workers.cloudflare.com/) -> click `Cancel` -> `Continue with GitHub` -> select your forked repository (`NodeWarden`) -> `Next` -> (R2 storage is used by default; if R2 is unavailable for your account, switch to KV and change the deploy command to `npm run deploy:kv`) -> deploy -> open the generated URL.
+2. Open [Workers](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create) -> `Continue with GitHub` -> select your forked repository (`NodeWarden`) -> `Next` -> (R2 storage is used by default; if R2 is unavailable for your account, switch to KV and change the deploy command to `npm run deploy:kv`) -> deploy -> open the generated URL.
 
 | Storage | Card required | Single attachment / Send file limit | Free tier |
 |---|---|---|---|

@@ -55,7 +55,7 @@ English：[`README_EN.md`](./README_EN.md)
 
 
 1. Fork 本仓库。若本项目对你有帮助，欢迎点个 Star。
-2. 打开 [Workers](https://deploy.workers.cloudflare.com/) ➜ 点击 `取消` ➜ `Continue with GitHub` ➜ 选择你 Fork 后的仓库（`NodeWarden`）➜ 下一步 ➜ （默认使用 R2 存储；若未开通，可切换为 KV，并将部署命令改为 `npm run deploy:kv`）➜ 部署 ➜ 打开生成的链接
+2. 打开 [Workers](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create) ➜ `Continue with GitHub` ➜ 选择你 Fork 后的仓库（`NodeWarden`）➜ 下一步 ➜ （默认使用 R2 存储；若未开通，可切换为 KV，并将部署命令改为 `npm run deploy:kv`）➜ 部署 ➜ 打开生成的链接
 
    | 储存 | 是否需绑卡 | 单个附件/Send文件上限 | 免费额度 |
    |---|---|---|---|
